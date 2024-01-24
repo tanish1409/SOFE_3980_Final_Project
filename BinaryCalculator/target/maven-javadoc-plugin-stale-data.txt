@@ -1,0 +1,55 @@
+@options
+@packages
+@argfile
+-classpath
+'C:/Users/Tanish/Documents/GitHub/Software_Quality/SOFE_3980_Final_Project/BinaryCalculator/target/classes;C:/Users/Tanish/Documents/GitHub/Software_Quality/SOFE_3980_Final_Project/BinaryCalculator/target/test-classes;C:/Users/Tanish/.m2/repository/junit/junit/4.11/junit-4.11.jar;C:/Users/Tanish/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'1.7'
+-sourcepath
+'C:/Users/Tanish/Documents/GitHub/Software_Quality/SOFE_3980_Final_Project/BinaryCalculator/src/test/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Tanish/Documents/GitHub/Software_Quality/SOFE_3980_Final_Project/BinaryCalculator/target/site/testapidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'BinaryCalculator 1.0.0 Test API'
+-link
+'../apidocs'
+-linkoffline
+'https://docs.oracle.com/javase/7/docs/api' 'C:/Users/Tanish/Documents/GitHub/Software_Quality/SOFE_3980_Final_Project/BinaryCalculator/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'BinaryCalculator 1.0.0 Test API'
+com.ontariotechu.sofe3980U
+'C:/Users/Tanish/Documents/GitHub/Software_Quality/SOFE_3980_Final_Project/BinaryCalculator/src/test/java/com/ontariotechu/sofe3980U/AppTest.java'
+C:\Users\Tanish\Documents\GitHub\Software_Quality\SOFE_3980_Final_Project\BinaryCalculator\target\classes = 1706138518500
+C:\Users\Tanish\Documents\GitHub\Software_Quality\SOFE_3980_Final_Project\BinaryCalculator\target\test-classes = 1706138518599
+C:\Users\Tanish\.m2\repository\junit\junit\4.11\junit-4.11.jar = 1706137519565
+C:\Users\Tanish\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar = 1706137519625
+C:\Users\Tanish\Documents\GitHub\Software_Quality\SOFE_3980_Final_Project\BinaryCalculator\src\test\java = 1706138269222
+C:\Users\Tanish\Documents\GitHub\Software_Quality\SOFE_3980_Final_Project\BinaryCalculator\target\site\testapidocs\allclasses-index.html = 1706138711058
+C:\Users\Tanish\Documents\GitHub\Software_Quality\SOFE_3980_Final_Project\BinaryCalculator\target\site\testapidocs\allpackages-index.html = 1706138711062
+C:\Users\Tanish\Documents\GitHub\Software_Quality\SOFE_3980_Final_Project\BinaryCalculator\target\site\testapidocs\copy.svg = 1706138711100
+C:\Users\Tanish\Documents\GitHub\Software_Quality\SOFE_3980_Final_Project\BinaryCalculator\target\site\testapidocs\element-list = 1706138711011
+C:\Users\Tanish\Documents\GitHub\Software_Quality\SOFE_3980_Final_Project\BinaryCalculator\target\site\testapidocs\help-doc.html = 1706138711091
+C:\Users\Tanish\Documents\GitHub\Software_Quality\SOFE_3980_Final_Project\BinaryCalculator\target\site\testapidocs\index-all.html = 1706138711082
+C:\Users\Tanish\Documents\GitHub\Software_Quality\SOFE_3980_Final_Project\BinaryCalculator\target\site\testapidocs\index.html = 1706138711085
+C:\Users\Tanish\Documents\GitHub\Software_Quality\SOFE_3980_Final_Project\BinaryCalculator\target\site\testapidocs\jquery-ui.overrides.css = 1706138711137
+C:\Users\Tanish\Documents\GitHub\Software_Quality\SOFE_3980_Final_Project\BinaryCalculator\target\site\testapidocs\member-search-index.js = 1706138711070
+C:\Users\Tanish\Documents\GitHub\Software_Quality\SOFE_3980_Final_Project\BinaryCalculator\target\site\testapidocs\module-search-index.js = 1706138711064
+C:\Users\Tanish\Documents\GitHub\Software_Quality\SOFE_3980_Final_Project\BinaryCalculator\target\site\testapidocs\overview-tree.html = 1706138711045
+C:\Users\Tanish\Documents\GitHub\Software_Quality\SOFE_3980_Final_Project\BinaryCalculator\target\site\testapidocs\package-search-index.js = 1706138711066
+C:\Users\Tanish\Documents\GitHub\Software_Quality\SOFE_3980_Final_Project\BinaryCalculator\target\site\testapidocs\script.js = 1706138711098
+C:\Users\Tanish\Documents\GitHub\Software_Quality\SOFE_3980_Final_Project\BinaryCalculator\target\site\testapidocs\search.js = 1706138711101
+C:\Users\Tanish\Documents\GitHub\Software_Quality\SOFE_3980_Final_Project\BinaryCalculator\target\site\testapidocs\stylesheet.css = 1706138711095
+C:\Users\Tanish\Documents\GitHub\Software_Quality\SOFE_3980_Final_Project\BinaryCalculator\target\site\testapidocs\tag-search-index.js = 1706138711071
+C:\Users\Tanish\Documents\GitHub\Software_Quality\SOFE_3980_Final_Project\BinaryCalculator\target\site\testapidocs\type-search-index.js = 1706138711068
