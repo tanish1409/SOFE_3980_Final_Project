@@ -160,7 +160,7 @@ public class BinaryTest {
         Binary binary1 = new Binary("0");
         Binary binary2 = new Binary("10110");
         Binary binary3 = Binary.and(binary1, binary2);
-        assertTrue(binary3.getValue().equals("00000"));
+        assertTrue(binary3.getValue().equals("0"));
     }
 
     /**
@@ -179,10 +179,10 @@ public class BinaryTest {
      */
     @Test
     public void and3() {
-        Binary binary1 = new Binary("11011");
+        Binary binary1 = new Binary("11111");
         Binary binary2 = new Binary("101");
         Binary binary3 = Binary.and(binary1, binary2);
-        assertTrue(binary3.getValue().equals("00001"));
+        assertTrue(binary3.getValue().equals("101"));
     }
 
     /**
@@ -213,7 +213,7 @@ public class BinaryTest {
      * ones and zeros
      */
     @Test
-    public void multiply8() {
+    public void multiply3() {
         Binary binary1 = new Binary("101");
         Binary binary2 = new Binary("110");
         Binary binary3 = Binary.multiply(binary1, binary2);
