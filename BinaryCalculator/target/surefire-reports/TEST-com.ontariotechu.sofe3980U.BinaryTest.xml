@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.ontariotechu.sofe3980U.BinaryTest" time="0.002" tests="20" errors="0" skipped="0" failures="3">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.ontariotechu.sofe3980U.BinaryTest" time="0.001" tests="20" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="18"/>
     <property name="sun.cpu.isalist" value="amd64"/>
@@ -15,7 +15,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="IN"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-18.0.2.1\bin"/>
-    <property name="sun.java.command" value="C:\Users\Tanish\AppData\Local\Temp\surefire10015249750327914889\surefirebooter714583100470218625.jar C:\Users\Tanish\AppData\Local\Temp\surefire10015249750327914889 2024-01-25T19-39-09_987-jvmRun1 surefire6252010059325629436tmp surefire_011593557607761632300tmp"/>
+    <property name="sun.java.command" value="C:\Users\Tanish\AppData\Local\Temp\surefire13784994404388748967\surefirebooter15937293594722760354.jar C:\Users\Tanish\AppData\Local\Temp\surefire13784994404388748967 2024-01-26T13-32-36_947-jvmRun1 surefire2112796075513158437tmp surefire_014725009655720863319tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\Tanish\Documents\GitHub\Software_Quality\SOFE_3980_Final_Project\BinaryCalculator\target\test-classes;C:\Users\Tanish\Documents\GitHub\Software_Quality\SOFE_3980_Final_Project\BinaryCalculator\target\classes;C:\Users\Tanish\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\Tanish\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\Tanish\.m2\repository\joda-time\joda-time\2.9.2\joda-time-2.9.2.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -30,7 +30,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\Tanish\AppData\Local\Temp\surefire10015249750327914889\surefirebooter714583100470218625.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\Tanish\AppData\Local\Temp\surefire13784994404388748967\surefirebooter15937293594722760354.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="18.0.2.1+1-1"/>
@@ -57,21 +57,9 @@
     <property name="java.class.version" value="62.0"/>
   </properties>
   <testcase name="constructorWithInvalidDigits" classname="com.ontariotechu.sofe3980U.BinaryTest" time="0"/>
-  <testcase name="multiply1" classname="com.ontariotechu.sofe3980U.BinaryTest" time="0">
-    <failure type="java.lang.AssertionError">java.lang.AssertionError
-	at com.ontariotechu.sofe3980U.BinaryTest.multiply1(BinaryTest.java:197)
-</failure>
-  </testcase>
-  <testcase name="multiply2" classname="com.ontariotechu.sofe3980U.BinaryTest" time="0">
-    <failure type="java.lang.AssertionError">java.lang.AssertionError
-	at com.ontariotechu.sofe3980U.BinaryTest.multiply2(BinaryTest.java:208)
-</failure>
-  </testcase>
-  <testcase name="multiply3" classname="com.ontariotechu.sofe3980U.BinaryTest" time="0">
-    <failure type="java.lang.AssertionError">java.lang.AssertionError
-	at com.ontariotechu.sofe3980U.BinaryTest.multiply3(BinaryTest.java:220)
-</failure>
-  </testcase>
+  <testcase name="multiply1" classname="com.ontariotechu.sofe3980U.BinaryTest" time="0"/>
+  <testcase name="multiply2" classname="com.ontariotechu.sofe3980U.BinaryTest" time="0"/>
+  <testcase name="multiply3" classname="com.ontariotechu.sofe3980U.BinaryTest" time="0"/>
   <testcase name="add" classname="com.ontariotechu.sofe3980U.BinaryTest" time="0"/>
   <testcase name="or1" classname="com.ontariotechu.sofe3980U.BinaryTest" time="0"/>
   <testcase name="or2" classname="com.ontariotechu.sofe3980U.BinaryTest" time="0"/>

@@ -130,14 +130,14 @@ public class Binary {
 	// Function to perform two Binary numbers assuming they are in the order of
 	// (multiplicand, multiplier)
 	public static Binary multiply(Binary num1, Binary num2) {
-		int len2 = num2.number.length();
+		int len2 = num2.number.length(); // length of the multiplier
 		Binary result = new Binary("0");
 		for (int i = 0; i < len2; i++) {
 			char chp2 = num2.number.charAt(len2 - 1 - i);
 			if (chp2 == '1') {
-				Binary temp = new Binary(num1.number);
-				for (int j = 0; j < i; j++) {
-					temp = add(temp, new Binary(num1.number));
+				Binary temp = new Binary(num1.number); // a temporary binary object to store the value of num1
+				for (int j = 0; j < i; j++) { // shift temp to the left by i digits
+					temp = new Binary(temp.number + "0"); // Shift temp to the left by adding a '0'
 				}
 				result = add(result, temp);
 			}

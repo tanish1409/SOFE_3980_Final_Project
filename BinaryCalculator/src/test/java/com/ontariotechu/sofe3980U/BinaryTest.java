@@ -179,10 +179,10 @@ public class BinaryTest {
      */
     @Test
     public void and3() {
-        Binary binary1 = new Binary("11111");
+        Binary binary1 = new Binary("11011");
         Binary binary2 = new Binary("101");
         Binary binary3 = Binary.and(binary1, binary2);
-        assertTrue(binary3.getValue().equals("101"));
+        assertTrue(binary3.getValue().equals("1"));
     }
 
     /**
@@ -194,7 +194,7 @@ public class BinaryTest {
         Binary binary1 = new Binary("10110");
         Binary binary2 = new Binary("000");
         Binary binary3 = Binary.multiply(binary1, binary2);
-        assertTrue(binary3.getValue().equals("0000000"));
+        assertTrue(binary3.getValue().equals("0"));
     }
 
     /**
